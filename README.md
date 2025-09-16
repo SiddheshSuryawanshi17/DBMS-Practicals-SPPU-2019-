@@ -1,1 +1,1 @@
-# DBMS-Practicals-SPPU-2019-
+# DBMS-Practicals-SPPU-2019
